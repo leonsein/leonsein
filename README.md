@@ -8,11 +8,11 @@ I started studying programming about 3 years ago which generated an interest in 
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [elliottsaleon@gmail.com](mailto:elliottsaleon@gmail.com)
+* ⚡ Blue Hat
 <!-- * 🖥️  See my portfolio at [elliottleon](http://elliottleon.github.io)
 * 🚀  I'm currently working on [asdsadsadas](http://jbjbjbjbjbj)
 * 🧠  I'm learning asdsadsadsadsdsadas
 * 🤝  I'm open to collaborating on asdsadsadsadsadsa -->
-* ⚡ Blue Hat
 
 <a href="https://www.github.com/leonsein" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leonsein?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/leonsein" target="_blank" rel="noreferrer"><img
