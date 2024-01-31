@@ -7,8 +7,9 @@ Software Engineer
 I started studying programming about 3 years ago which generated an interest in me to learn different technologies. Today my passion is to create websites and mobile applications both frontend and backend. Likewise, cybersecurity is a field in which I am getting into day by day.
 
 * 🌍  I'm based in México
-<!-- * 🖥️  See my portfolio at [elliottleon](http://elliottleon.github.io)
 * ✉️  You can contact me at [elliottsaleon@gmail.com](mailto:elliottsaleon@gmail.com)
+<!-- * 🖥️  See my portfolio at [elliottleon](http://elliottleon.github.io)
+
 * 🚀  I'm currently working on [asdsadsadas](http://jbjbjbjbjbj)
 * 🧠  I'm learning asdsadsadsadsdsadas
 * 🤝  I'm open to collaborating on asdsadsadsadsadsa -->
