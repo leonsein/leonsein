@@ -9,7 +9,6 @@ I started studying programming about 3 years ago which generated an interest in 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [elliottsaleon@gmail.com](mailto:elliottsaleon@gmail.com)
 <!-- * 🖥️  See my portfolio at [elliottleon](http://elliottleon.github.io)
-
 * 🚀  I'm currently working on [asdsadsadas](http://jbjbjbjbjbj)
 * 🧠  I'm learning asdsadsadsadsdsadas
 * 🤝  I'm open to collaborating on asdsadsadsadsadsa -->
