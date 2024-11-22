@@ -1,19 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elliott León
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Elliott Sánchez León
 ====================================================================================================================================
 
-Software Engineer
+Ingenierio en Gestión y Desarrollo de Software
 -----------------
 
-I started studying programming about 3 years ago which generated an interest in me to learn different technologies. Today my passion is to create websites and mobile applications both frontend and backend. Likewise, cybersecurity is a field in which I am getting into day by day.
+Comencé a estudiar programación hace 3 años lo que me generó un interés por aprender diferentes tecnologías. Hoy mi pasión es crear sitios web y aplicaciones móviles tanto frontend como backend. Asimismo, la ciberseguridad es un campo en el que me estoy adentrando día a día.
 
-* 🌍  I'm based in México
-* ✉️  You can contact me at [elliottsaleon@gmail.com](mailto:elliottsaleon@gmail.com)
-* ⚡ Blue Hat
-<!-- * 🖥️  See my portfolio at [elliottleon](http://elliottleon.github.io)
-* 🚀  I'm currently working on [asdsadsadas](http://jbjbjbjbjbj)
-* 🧠  I'm learning asdsadsadsadsdsadas
-* 🤝  I'm open to collaborating on asdsadsadsadsadsa -->
-
+* 🌍  México
+* ✉️  Contacto [elliottsaleon@gmail.com](mailto:elliottsaleon@gmail.com)
+* 🖥️  Mi portfolio [elliottleon](https://github.com/leonsein)
+  
 <a href="https://www.github.com/leonsein" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leonsein?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/leonsein" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/leonsein?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
